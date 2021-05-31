@@ -19,3 +19,8 @@ Top layer of 3D PCB :
 Detail of the use of each pin entry : 
 
 ![Detail of the use of each pin entry](https://github.com/Muzashii/PCB_arduino_4x7-segment_display/blob/main/Detail%20of%20the%20use%20of%20each%20pin%20entry.png)
+
+## Installation
+
+##### Use KiCad to open the project file
+
